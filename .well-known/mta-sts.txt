@@ -1,4 +1,5 @@
 version: STSv1
 mode: testing
 mx: facilitywijs-nl02b.mail.protection.outlook.com
+mx: facilitywijs-nl02b.y-v1.mx.microsoft
 max_age: 86401
